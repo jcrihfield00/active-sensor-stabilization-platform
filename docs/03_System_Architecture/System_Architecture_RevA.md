@@ -29,7 +29,6 @@ The system consists of five primary subsystems:
 # 2. High-Level System Architecture
 
 ![High-Level System Architecture](../../media/diagrams/system_architecture_revA.png)
-
 *Figure 2-1. High-Level System Architecture*
 
 ---
